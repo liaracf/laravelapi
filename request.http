@@ -2,7 +2,12 @@ POST http://localhost:8000/api/register
 Content-Type: "application/json"
 
 {
-   "name": "Gastura",
-   "email": "mufino@gmail.com",
-   "password": "12345678"
+   "name": "Fulano D. Town",
+   "email": "gastura@socorro.com",
+   "password": "12345678",
+   "phone": "123455",
+   "type": "driver"
+   
+   
+
 }
