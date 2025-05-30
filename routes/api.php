@@ -12,3 +12,4 @@ Route::get('/user', function (Request $request) {
 });
 
 Route::post('/register', [AuthController::class, 'store']);
+Route::post('/cadastro', [UserController::class, 'register']);
