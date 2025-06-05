@@ -1,9 +1,9 @@
-POST http://localhost:8081/api/register
+POST http://127.0.0.1/api/register
 Content-Type: "application/json"
 
 {
-   "name": "Fulano own",
-   "email": "rolsdfsf.com",
+   "name": "efegfa",
+   "email": "bwegfa.com",
    "password": "12345678",
    
 }
